@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tdd-guard",
+    "name": "TDD Guard",
+    "description": "Automated TDD enforcement for Claude Code. Blocks actions that violate Test-Driven Development principles, preventing implementation without failing tests.",
+    "category": "tdd",
+    "repoUrl": "https://github.com/nizos/tdd-guard",
+    "author": "nizos"
+  },
+  {
+    "id": "ccnotify",
+    "name": "CCNotify",
+    "description": "Desktop notifications for Claude Code. Alerts you when Claude needs your input or completes tasks, tracking session duration and project context.",
+    "category": "notifications",
+    "repoUrl": "https://github.com/dazuiba/CCNotify",
+    "author": "dazuiba"
+  },
+  {
+    "id": "claudio",
+    "name": "Claudio",
+    "description": "Hook-based audio plugin that plays contextual sounds based on tool usage and events. Automatically detects platform and uses native system sounds.",
+    "category": "notifications",
+    "repoUrl": "https://github.com/ctoth/claudio",
+    "author": "ctoth"
+  },
+  {
+    "id": "cchooks",
+    "name": "cchooks",
+    "description": "A lightweight Python SDK with clean API for Claude Code hooks. Supports all 9 hook types with simple exit codes or advanced JSON control.",
+    "category": "sdk",
+    "repoUrl": "https://github.com/GowayLee/cchooks",
+    "author": "GowayLee"
+  },
+  {
+    "id": "claude-hooks-ts",
+    "name": "claude-hooks",
+    "description": "TypeScript-based system for configuring and customizing Claude Code hooks with a powerful and flexible interface.",
+    "category": "sdk",
+    "repoUrl": "https://github.com/johnlindquist/claude-hooks",
+    "author": "johnlindquist"
+  },
+  {
+    "id": "claude-hooks-decider",
+    "name": "claude-hooks (Python)",
+    "description": "Comprehensive hooks for Claude Code to enforce clean code practices and automate workflows. Lightweight Python-based hook system.",
+    "category": "code-quality",
+    "repoUrl": "https://github.com/decider/claude-hooks",
+    "author": "decider"
+  },
+  {
+    "id": "claude-code-hooks-mastery",
+    "name": "Claude Code Hooks Mastery",
+    "description": "Demo capturing all 8 Claude Code hook lifecycle events with JSON payloads. Includes enhanced TTS alerts and UV single-file scripts.",
+    "category": "developer-tools",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "claude-notify",
+    "name": "claude-notify",
+    "description": "Multi-OS notification tool for Claude Code hooks. Cross-platform desktop notifications for macOS, Linux, and Windows.",
+    "category": "notifications",
+    "repoUrl": "https://github.com/jamez01/claude-notify",
+    "author": "jamez01"
+  },
+  {
+    "id": "cc-hooks-audio",
+    "name": "cc-hooks",
+    "description": "Audio feedback plugin with TTS announcements, sound effects, and contextual AI messages. Supports multiple providers and languages.",
+    "category": "notifications",
+    "repoUrl": "https://github.com/husniadil/cc-hooks",
+    "author": "husniadil"
+  },
+  {
+    "id": "cchook-yaml",
+    "name": "cchook",
+    "description": "CLI tool that simplifies Claude Code's hook system by replacing complex JSON configurations with clean YAML syntax and template-based data access.",
+    "category": "developer-tools",
+    "repoUrl": "https://github.com/syou6162/cchook",
+    "author": "syou6162"
+  },
+  {
+    "id": "claude-code-showcase",
+    "name": "Claude Code Showcase",
+    "description": "Comprehensive project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows.",
+    "category": "general",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+    "author": "ChrisWiles"
+  },
+  {
+    "id": "hooks-observability",
+    "name": "Multi-Agent Observability",
+    "description": "Real-time monitoring for Claude Code agents through simple hook event tracking. Track and visualize agent behavior.",
+    "category": "developer-tools",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-multi-agent-observability",
+    "author": "disler"
+  }
+]
